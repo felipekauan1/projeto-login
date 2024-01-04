@@ -65,5 +65,28 @@
 
     div#formulario>p {
         font-size: 1.2em;
+        margin-bottom: 15px;
+    }
+
+    form>div.campo {
+        width: 80%;
+        height: 40px;
+        margin: auto;
+        margin-top: 5px;
+    }
+
+    form>div>input[type=submit] {
+        width: 80%;
+        height: 40px;
+        margin: auto;
+        margin-top: 8px;
+    }
+
+    form>div>a.botao {
+        width: 80%;
+        height: 40px;
+        margin: auto;
+        margin-top: 8px;
+        padding-top: 7px;
     }
 }
